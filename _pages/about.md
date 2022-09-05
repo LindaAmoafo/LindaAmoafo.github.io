@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Population Health Science](https://medicine.utah.edu/population-health-sciences) PhD candidate with the [biostatistics emphasis](https://medicine.utah.edu/population-health-sciences/divisions/biostatistics) at the [University of Utah School of Medicine](https://medicine.utah.edu/)
+I am a [Population Health Science](https://medicine.utah.edu/population-health-sciences) PhD candidate with the [biostatistics emphasis](https://medicine.utah.edu/population-health-sciences/divisions/biostatistics) at the [University of Utah School of Medicine](https://medicine.utah.edu/).
 
+I am currently working under the supervision of [Dr. Yue Zhang](https://medicine.utah.edu/faculty/mddetail/u0892412) on developing distributed lag models for assessing windows of susceptibility to acute exposure to mixed environmental risk factors in the case-crossover design using Bayesian inference, and [Daniel Scharfstein, SCD](https://medicine.utah.edu/population-health-sciences/dscharf) on developing a semi-parametric sensitivity analysis tool for thunmeasured confounding in observational setting with a time-to-event outcome subject to right censoring. Broadly I am interested in clinical trials, causal inference, survival analysis, machine learning, Bayesian statistics and environmental statistics.
 
 A data-driven personal website
 ======
