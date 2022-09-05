@@ -14,5 +14,7 @@ I am currently working under the supervision of [Dr. Yue Zhang](https://medicine
 
 I received my master's degree in statistics at the [Northern Arizona Unoversity](https://nau.edu/cefns/natsci/math/), and my Bachelor's degree also in statistics from the [Kwame Nkrumah University of Science and Technology](https://statacts.knust.edu.gh/)
 
+I keep my updated [CV]() here. 
+
 I enjoy paticipating in group fitnese and like hanging out with friends when I get the chance. 
 
