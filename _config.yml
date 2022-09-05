@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Linda's Personal website"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Linda Amoafo"
 description              : &description "I am a PhD candidate working under the advisement of Dr. Yue Zhang and Dr. Daniel Scharfstein at the University of Utah"
